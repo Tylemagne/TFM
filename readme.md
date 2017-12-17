@@ -10,7 +10,7 @@ If you've ever needed a small, simple, and powerful game-like application to tes
 
 [![GitHub top language](https://img.shields.io/github/languages/top/Tylemagne/TAFM.svg)]()
 
-[![GitHub release](https://img.shields.io/github/release/Tylemagne/TAFM.svg)]()
+[![GitHub release](https://img.shields.io/github/release/Tylemagne/TAFM.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAOCAYAAAD0f5bSAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAfgAAAH4BavEubQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAACRSURBVCiR7ZExCkJBDETn24jgCbyE9rZ2lr+3sPQUXsFD2HkNwZNYC9rk7cJYuMXy/aho60AgIfOKSaRKEdEC7lZEtLVvoC/0h36BGmAlaV7msaRJj+8s6Vb6o2wPgX3fU7uVUjrYHkmSbDcRsX0D7Ww/xwHWPFSbM7B5GTKltAAuBbjmnJcfXQeYAidg1re/A0Qcr7zN5lQ2AAAAAElFTkSuQmCC)]()
 
 [![Github commits (since latest release)](https://img.shields.io/github/commits-since/Tylemagne/TAFM/latest.svg)]()
 

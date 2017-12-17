@@ -33,3 +33,5 @@ Considerations
 How to download
 ======
 There are no builds yet.
+
+[![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/Gopher360/total.svg?style=flat&label=TAFM%2032-bit&logo=appveyor&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TAFM/releases/download/v1.1/TAFM.zip)

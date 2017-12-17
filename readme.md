@@ -33,7 +33,7 @@ There are no builds yet. Ignore the buttons below.
 ## Windows
 [![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TAFM/total.svg?style=flat&label=TAFM%20v1.1%20(32-bit)&logo=appveyor&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TAFM/releases/download/v1.1/TAFM-win-x86.zip)
 
-[![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TAFM/total.svg?style=flat&label=TAFM%20v1.1%20(64-bit)&logo=appveyor&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TAFM/releases/download/v1.1/TAFM-win-x86_64.zip)
+[![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TAFM/total.svg?style=flat&label=TAFM%20v1.1%20(64-bit)&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAOCAYAAAD0f5bSAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAfgAAAH4BavEubQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAACRSURBVCiR7ZExCkJBDETn24jgCbyE9rZ2lr+3sPQUXsFD2HkNwZNYC9rk7cJYuMXy/aho60AgIfOKSaRKEdEC7lZEtLVvoC/0h36BGmAlaV7msaRJj+8s6Vb6o2wPgX3fU7uVUjrYHkmSbDcRsX0D7Ww/xwHWPFSbM7B5GTKltAAuBbjmnJcfXQeYAidg1re/A0Qcr7zN5lQ2AAAAAElFTkSuQmCC&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TAFM/releases/download/v1.1/TAFM-win-x86_64.zip)
 
 ## Mac
 

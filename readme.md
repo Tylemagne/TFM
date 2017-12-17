@@ -1,3 +1,7 @@
+About
+======
+If you've ever needed a small, simple, and powerful game-like application to test your computer, look no further. TAFM does many things, but is especially great for demonstrating differences between framerates, stress testing for long periods of time, and calibrating live streams. You install Steam, login, download a game, launch it, set the settings, and wait for the benchmark to start (if it even has one). It took forever! Not anymore.
+
 To-do
 ======
 Current task list:

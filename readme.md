@@ -1,5 +1,4 @@
-About
-======
+# About
 If you've ever needed a small, simple, and powerful game-like application to test your computer, look no further. TAFM does many things, but is especially great for demonstrating differences between framerates, stress testing for long periods of time, and calibrating live streams. You install Steam, login, download a game, launch it, set the settings, and wait for the benchmark to start (if it even has one). It took forever! Not anymore.
 
 
@@ -15,8 +14,7 @@ If you've ever needed a small, simple, and powerful game-like application to tes
 
 [![Github commits (since latest release)](https://img.shields.io/github/commits-since/Tylemagne/TAFM/latest.svg)]()
 
-To-do
-======
+# To-do
 Current task list:
 1. Skybox
 2. UI adjustments
@@ -25,13 +23,18 @@ Current task list:
 5. Builds for each platform in releases (Windows, Mac, Linux... about 16 possible builds in all)
 6. Global FPS cap (1-240 slider)
 
-Considerations
-======
+# Considerations
 1. Audio
 2. Web builds hosted by GitHub?
 
-How to download
-======
-There are no builds yet.
+# Download
+There are no builds yet. Ignore the buttons below.
 
-[![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/Gopher360/total.svg?style=flat&label=TAFM%2032-bit&logo=appveyor&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TAFM/releases/download/v1.1/TAFM.zip)
+## Windows
+[![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TAFM/total.svg?style=flat&label=TAFM%20v1.1%20(32-bit)&logo=appveyor&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TAFM/releases/download/v1.1/TAFM.zip)
+
+[![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TAFM/total.svg?style=flat&label=TAFM%20v1.1%20(64-bit)&logo=appveyor&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TAFM/releases/download/v1.1/TAFM.zip)
+
+## Mac
+
+## Linux

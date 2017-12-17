@@ -31,9 +31,9 @@ Current task list:
 There are no builds yet. Ignore the buttons below.
 
 ## Windows
-[![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TAFM/total.svg?style=flat&label=TAFM%20v1.1%20(32-bit)&logo=appveyor&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TAFM/releases/download/v1.1/TAFM.zip)
+[![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TAFM/total.svg?style=flat&label=TAFM%20v1.1%20(32-bit)&logo=appveyor&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TAFM/releases/download/v1.1/TAFM-win-x86.zip)
 
-[![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TAFM/total.svg?style=flat&label=TAFM%20v1.1%20(64-bit)&logo=appveyor&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TAFM/releases/download/v1.1/TAFM.zip)
+[![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TAFM/total.svg?style=flat&label=TAFM%20v1.1%20(64-bit)&logo=appveyor&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TAFM/releases/download/v1.1/TAFM-win-x86_64.zip)
 
 ## Mac
 

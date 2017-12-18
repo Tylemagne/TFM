@@ -23,6 +23,7 @@ public class FPSer : MonoBehaviour {
 		if(Time.time - lastUpdate > 0.2f)
 		{
 			float finalfloat = 1 / Time.deltaTime;
+			finalfloat *= Time.timeScale;
 			int finalint = (int) finalfloat;
 			fpsText.text = finalint.ToString();
 			lastUpdate = Time.time;

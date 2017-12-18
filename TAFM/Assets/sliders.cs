@@ -28,6 +28,8 @@ public class sliders : MonoBehaviour {
     // Use this for initialization
     void Start () {
 		cameraAnimator = cameraHandle.GetComponent<Animator> ();
+		Application.targetFrameRate = 10000;
+		QualitySettings.vSyncCount = 0;
 	}
 	
 	// Update is called once per frame
@@ -40,7 +42,16 @@ public class sliders : MonoBehaviour {
 		tCamSpeed.text = sCamSpeed.value.ToString ();
 		tGfps.text = sGfps.value.ToString ();
 
-		Application.targetFrameRate = (int)sGfps.value;
+		if(sGfps.value == 145)
+		{
+			Application.targetFrameRate = 10000;
+			tGfps.text = "Unlimited";
+		}
+		else
+		{
+			Application.targetFrameRate = (int) sGfps.value;
+		}
+
 		Time.timeScale = sTs.value;
 		Time.fixedDeltaTime = (1f / sPhysfps.value) * Time.timeScale;
 		Physics.gravity = new Vector3 (0f, -sGrav.value, 0f);

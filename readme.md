@@ -14,14 +14,17 @@ If you've ever needed a small, simple, and powerful game-like application to tes
 
 [![Github commits (since latest release)](https://img.shields.io/github/commits-since/Tylemagne/TAFM/latest.svg)]()
 
-# To-do
+# To-do for 1.0 Full Release
 Current task list:
-1. Skybox
+1. Add more stress (particle toggle?)
 2. UI adjustments
 3. Builds for each API in releases (Vulkan, DX12, DX11, OpenGL, DX9)
 4. Builds for each bitwidth in releases (32, 64)
 5. Builds for each platform in releases (Windows, Mac, Linux... about 16 possible builds in all)
-6. Global FPS cap (1-240 slider)
+6. Audio testing (small background track with volume slider)
+7. F12 for control/info panel, + button to hide 99% of the UI (disable canvas component)
+8 . Mode presets. One click and the sliders will snap.
+9 . F11 for fullscreen toggle
 
 # Considerations
 1. Audio
@@ -33,24 +36,25 @@ There are no builds yet. Ignore the buttons below.
 Vulkan is the recommendation, but your machine may not handle it yet as Vulkan is relatively very new. DirectX 11 or OpenGL is the next best option if DirectX 12 doesn't work, since it's the same age as Vulkan.
 
 # Windows
-## Vulkan
+### Vulkan (Recommended)
 [![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TAFM/total.svg?style=flat&label=🔽%20TAFM%20v1.1%20(32-bit)&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TAFM/releases/download/v1.1/TAFM-win-x86.zip)
 
 [![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TAFM/total.svg?style=flat&label=🔽%20TAFM%20v1.1%20(64-bit)&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TAFM/releases/download/v1.1/TAFM-win-x86_64.zip)
-## OpenGL
-## DirectX 12
-## DirectX 11
-## DirectX 9
+### OpenGL
+### DirectX 12
+### DirectX 11
+### DirectX 9
 
 # Mac
-## OpenGL
+### Metal (Recommended)
+### OpenGL
 [![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TAFM/total.svg?style=flat&label=🔽%20TAFM%20v1.1%20(32-bit)&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TAFM/releases/download/v1.1/TAFM-win-x86.zip)
 
 [![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TAFM/total.svg?style=flat&label=🔽%20TAFM%20v1.1%20(64-bit)&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TAFM/releases/download/v1.1/TAFM-win-x86_64.zip)
 
 # Linux
-## OpenGL
-## Vulkan
+### OpenGL
+### Vulkan (Recommended)
 [![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TAFM/total.svg?style=flat&label=🔽%20TAFM%20v1.1%20(32-bit)&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TAFM/releases/download/v1.1/TAFM-win-x86.zip)
 
 [![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TAFM/total.svg?style=flat&label=🔽%20TAFM%20v1.1%20(64-bit)&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TAFM/releases/download/v1.1/TAFM-win-x86_64.zip)

@@ -16,15 +16,17 @@ If you've ever needed a small, simple, and powerful game-like application to tes
 
 # To-do for 1.0 Full Release
 Current task list:
-1. Add more stress (particle toggle?)
+1. Add more stress (slider for huge background fireworks)
 2. UI adjustments
 3. Builds for each API in releases (Vulkan, DX12, DX11, OpenGL, DX9)
 4. Builds for each bitwidth in releases (32, 64)
 5. Builds for each platform in releases (Windows, Mac, Linux... about 16 possible builds in all)
 6. Audio testing (small background track with volume slider)
-7. F12 for control/info panel, + button to hide 99% of the UI (disable canvas component)
+7. F12 for control/info panel, + button to hide the UI (disable canvas component)
 8 . Mode presets. One click and the sliders will snap.
 9 . F11 for fullscreen toggle
+10. Intro text fade in from black
+
 
 # Considerations
 1. Audio

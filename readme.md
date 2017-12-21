@@ -14,6 +14,11 @@ If you've ever needed a small, simple, and powerful game-like application to tes
 
 [![Github commits (since latest release)](https://img.shields.io/github/commits-since/Tylemagne/TAFM/latest.svg)]()
 
+
+# Web
+[## WebGL](http://htmlpreview.github.io/?https://github.com/Tylemagne/TFM/master/TFM-WebGL/index.html)
+
+
 # To-do for 1.0 Full Release
 Current task list:
 1. Add more stress (slider for huge background fireworks)

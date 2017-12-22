@@ -36,7 +36,8 @@ Current task list:
 13. Group box for benchmarks, presets, system info, and misc controls
 14. Preset buttons for 2frames, calibration60, calibration30, calibration24, slomo, pleasant, ultra, lowest, and stabilitytest
 15. System info groupbox where a rough score is given to each piece of hardware
-16. Benchmark mode - click ONE button and a 5-minute benchmark will run at a locked preset, and a total frames drawn score will be presented at the end using Update(). Low and high modes only.
+16. Benchmark mode - click ONE button and a 5-minute benchmark will run at a locked preset, and a total frames drawn score will be presented at the end using Update(). Low and high modes only. Resolution/total pixels are included in the score string.
+17. Resolution dropdown in the dashboard
 
 # Considerations
 1. Audio

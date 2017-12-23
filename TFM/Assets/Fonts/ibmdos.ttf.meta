@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e6fb89e4da46cc34480db2cab7c9d722
+timeCreated: 1513995610
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PxPlus IBM VGA8
+  fontNames:
+  - ibm
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 2
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

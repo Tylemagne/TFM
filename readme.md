@@ -39,6 +39,7 @@ Current task list:
 16. Benchmark mode - click ONE button and a 5-minute benchmark will run at a locked preset, and a total frames drawn score will be presented at the end using Update(). Low and high modes only. Resolution/total pixels are included in the score string.
 17. Resolution dropdown in the dashboard
 18. Clickable helpers on CPU, GPU, RAM, and more. Clickable helpers on CERTAIN CPUs/GPUs/APIs. "This is Vulkan. It is..."
+19. Misc buttons [open URL to Repo](https://docs.unity3d.com/ScriptReference/Application.OpenURL.html)
 
 # Considerations
 1. Audio

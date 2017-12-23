@@ -28,7 +28,7 @@ Current task list:
 5. Builds for each platform in releases (Windows, Mac, Linux... about 16 possible builds in all)
 6. Audio testing (small background track with volume slider)
 7. F12 for control/info panel, + button to hide the UI (disable canvas component)
-8 . Mode presets. One click and the sliders will snap.
+8 . Mode presets (dual framerates/etc, helper bubbles). One click and the sliders will snap.
 9 . F11 for fullscreen toggle (also toggle in dashboard)
 10. Intro text fade in from black
 11. Minimal UI by default, F12 for dashboard

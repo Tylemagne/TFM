@@ -52,7 +52,7 @@ Vulkan is the recommendation, but your machine may not handle it yet as Vulkan i
 
 [![Github Releases (by Asset)](https://img.shields.io/github/downloads/Tylemagne/TFM/latest/tfm-win-dx9-32.zip.svg)]()
 
-[![Github Releases (by Asset)](https://img.shields.io/github/downloads/atom/atom/latest/atom-amd64.deb.svg)]()
+[![Github Releases (by Asset)](https://img.shields.io/github/downloads-pre/Tylemagne/TFM/latest/tfm-win-dx9-32.zip.svg?style=flat&label=🔽Download&colorA=00cc0a&colorB=000000)]()
 
 # Windows
 ### Vulkan (Recommended)

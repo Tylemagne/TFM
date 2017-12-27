@@ -16,7 +16,7 @@ If you've ever needed a small, simple, and powerful game-like application to tes
 
 
 # Web
-[WebGL](http://htmlpreview.github.io/?https://github.com/Tylemagne/TFM/master/TFM-WebGL/index.html)
+[Experimental WebGL Demo](http://htmlpreview.github.io/?https://github.com/Tylemagne/TFM/master/TFM-WebGL/index.html)
 
 
 # To-do for 1.0 Full Release

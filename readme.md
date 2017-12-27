@@ -52,6 +52,8 @@ Vulkan is the recommendation, but your machine may not handle it yet as Vulkan i
 
 [![Github Releases (by Asset)](https://img.shields.io/github/downloads/Tylemagne/TFM/latest/tfm-win-dx9-32.zip)]()
 
+[![Github Releases (by Asset)](https://img.shields.io/github/downloads/atom/atom/latest/atom-amd64.deb.svg)]()
+
 # Windows
 ### Vulkan (Recommended)
 [![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TAFM/total.svg?style=flat&label=🔽%20TAFM%20v1.1%20(32-bit)&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TAFM/releases/download/v1.1/TAFM-win-x86.zip)

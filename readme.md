@@ -50,7 +50,7 @@ There are no builds yet. Ignore the buttons below.
 
 Vulkan is the recommendation, but your machine may not handle it yet as Vulkan is relatively very new. DirectX 11 or OpenGL is the next best option if DirectX 12 doesn't work, since it's the same age as Vulkan.
 
-[![Github Releases (by Asset)](https://img.shields.io/github/downloads/Tylemagne/TFM/latest/tfm-win-dx9-32.zip)]()
+[![Github Releases (by Asset)](https://img.shields.io/github/downloads/Tylemagne/TFM/latest/tfm-win-dx9-32.zip.svg)]()
 
 [![Github Releases (by Asset)](https://img.shields.io/github/downloads/atom/atom/latest/atom-amd64.deb.svg)]()
 

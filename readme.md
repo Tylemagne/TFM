@@ -50,6 +50,8 @@ There are no builds yet. Ignore the buttons below.
 
 Vulkan is the recommendation, but your machine may not handle it yet as Vulkan is relatively very new. DirectX 11 or OpenGL is the next best option if DirectX 12 doesn't work, since it's the same age as Vulkan.
 
+[![Github Releases (by Asset)](https://img.shields.io/github/downloads/Tylemagne/TFM/latest/tfm-win-dx9-32.zip)]()
+
 # Windows
 ### Vulkan (Recommended)
 [![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TAFM/total.svg?style=flat&label=🔽%20TAFM%20v1.1%20(32-bit)&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TAFM/releases/download/v1.1/TAFM-win-x86.zip)

@@ -77,3 +77,7 @@ Vulkan is the recommendation, but your machine may not handle it yet as Vulkan i
 [![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TAFM/total.svg?style=flat&label=🔽%20TAFM%20v1.1%20(32-bit)&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TAFM/releases/download/v1.1/TAFM-win-x86.zip)
 
 [![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TAFM/total.svg?style=flat&label=🔽%20TAFM%20v1.1%20(64-bit)&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TAFM/releases/download/v1.1/TAFM-win-x86_64.zip)
+
+# Android
+
+#iOS

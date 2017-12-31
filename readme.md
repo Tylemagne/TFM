@@ -19,31 +19,15 @@ If you've ever needed a small, simple, and powerful game-like application to tes
 [Experimental WebGL Demo](http://htmlpreview.github.io/?https://github.com/Tylemagne/TFM/master/TFM-WebGL/index.html)
 
 
-# To-do for 1.0 Full Release
+# To-do for Future Release
 Current task list:
-1. Add more stress (slider for huge background fireworks)
-2. UI adjustments (truncate long floats, steppers)
-3. Builds for each API in releases (Vulkan, DX12, DX11, OpenGL, DX9)
-4. Builds for each bitwidth in releases (32, 64)
-5. Builds for each platform in releases (Windows, Mac, Linux... about 16 possible builds in all)
-6. Audio testing (small background track with volume slider)
-7. F12 for control/info panel, + button to hide the UI (disable canvas component)
-8 . Mode presets (dual framerates/etc, helper bubbles). One click and the sliders will snap.
-9 . F11 for fullscreen toggle (also toggle in dashboard)
-10. Intro text fade in from black
-11. Minimal UI by default, F12 for dashboard
-12. Toggle controls via a checkbox in the dashboard
-13. Group box for benchmarks, presets, system info, and misc controls
-14. Preset buttons for 2frames, calibration60, calibration30, calibration24, slomo, pleasant, ultra, lowest, and stabilitytest
-15. System info groupbox where a rough score is given to each piece of hardware
-16. Benchmark mode - click ONE button and a 5-minute benchmark will run at a locked preset, and a total frames drawn score will be presented at the end using Update(). Low and high modes only. Resolution/total pixels are included in the score string.
-17. Resolution dropdown in the dashboard
+1. Intro text fade in from black
+2. Resolution dropdown in the dashboard
+3. Fullscreen toggler
 18. Clickable helpers on CPU, GPU, RAM, and more. Clickable helpers on CERTAIN CPUs/GPUs/APIs. "This is Vulkan. It is..."
-19. Misc buttons [open URL to Repo](https://docs.unity3d.com/ScriptReference/Application.OpenURL.html)
 
 # Considerations
-1. Audio
-2. Web builds hosted by GitHub?
+3. Web builds hosted by GitHub?
 
 # Download Latest
 There are no builds yet. Ignore the buttons below.

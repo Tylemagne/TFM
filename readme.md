@@ -41,9 +41,9 @@ Vulkan is the recommendation, but your machine may not handle it yet as Vulkan i
 
 # Windows
 ### Vulkan (Recommended)
-[![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TAFM/total.svg?style=flat&label=🔽%20TAFM%20v1.1%20(32-bit)&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TAFM/releases/download/v1.1/TAFM-win-x86.zip)
+[![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TFM/total.svg?style=flat&label=🔽%20TFM%20v1.1%20(32-bit)&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TFM/releases/download/v1.1/TFM-win-x86.zip)
 
-[![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TAFM/total.svg?style=flat&label=🔽%20TAFM%20v1.1%20(64-bit)&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TAFM/releases/download/v1.1/TAFM-win-x86_64.zip)
+[![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TFM/total.svg?style=flat&label=🔽%20TFM%20v1.1%20(64-bit)&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TFM/releases/download/v1.1/TFM-win-x86_64.zip)
 ### OpenGL
 ### DirectX 12
 ### DirectX 11
@@ -52,16 +52,16 @@ Vulkan is the recommendation, but your machine may not handle it yet as Vulkan i
 # Mac
 ### Metal (Recommended)
 ### OpenGL
-[![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TAFM/total.svg?style=flat&label=🔽%20TAFM%20v1.1%20(32-bit)&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TAFM/releases/download/v1.1/TAFM-win-x86.zip)
+[![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TFM/total.svg?style=flat&label=🔽%20TFM%20v1.1%20(32-bit)&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TFM/releases/download/v1.1/TFM-win-x86.zip)
 
-[![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TAFM/total.svg?style=flat&label=🔽%20TAFM%20v1.1%20(64-bit)&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TAFM/releases/download/v1.1/TAFM-win-x86_64.zip)
+[![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TFM/total.svg?style=flat&label=🔽%20TFM%20v1.1%20(64-bit)&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TFM/releases/download/v1.1/TFM-win-x86_64.zip)
 
 # Linux
 ### OpenGL
 ### Vulkan (Recommended)
-[![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TAFM/total.svg?style=flat&label=🔽%20TAFM%20v1.1%20(32-bit)&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TAFM/releases/download/v1.1/TAFM-win-x86.zip)
+[![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TFM/total.svg?style=flat&label=🔽%20TFM%20v1.1%20(32-bit)&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TFM/releases/download/v1.1/TFM-win-x86.zip)
 
-[![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TAFM/total.svg?style=flat&label=🔽%20TAFM%20v1.1%20(64-bit)&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TAFM/releases/download/v1.1/TAFM-win-x86_64.zip)
+[![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TFM/total.svg?style=flat&label=🔽%20TFM%20v1.1%20(64-bit)&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TFM/releases/download/v1.1/TFM-win-x86_64.zip)
 
 # Android
 

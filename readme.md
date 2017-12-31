@@ -35,9 +35,7 @@ There are no builds yet. Ignore the buttons below.
 
 Vulkan is the recommendation, but your machine may not handle it yet as Vulkan is relatively very new. DirectX 11 or OpenGL is the next best option if DirectX 12 doesn't work, since it's the same age as Vulkan.
 
-[![Github Releases (by Asset)](https://img.shields.io/github/downloads/Tylemagne/TFM/latest/tfm10-win64-dx12.zip.svg)]()
-
-[![Github Releases (by Asset)](https://img.shields.io/github/downloads-pre/Tylemagne/TFM/latest/tfm10-win64-dx12.zip.svg?style=flat&label=🔽Download&colorA=00cc0a&colorB=000000)]()
+[![Github Releases (by Asset)](https://img.shields.io/github/downloads-pre/Tylemagne/TFM/latest/tfm10-win64-dx12.zip.svg?style=flat&label=🔽Download&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TFM/releases/download/v1.0-beta2/tfm10-win64-dx12.zip)
 
 # Windows
 ### Vulkan (Recommended)

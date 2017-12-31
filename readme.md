@@ -21,6 +21,7 @@ If you've ever needed a small, simple, and powerful game-like application to tes
 
 # To-do for Future Release
 Current task list:
+1. Eventual rewrite from the ground up. The first incarnation has very messy code, as features were added over the course of several months.
 1. Intro text fade in from black
 2. Resolution dropdown in the dashboard
 3. Fullscreen toggler

@@ -5,14 +5,23 @@ using UnityEngine.UI;
 
 public class hwinfo : MonoBehaviour {
 
-	public Text gpu2;
+	public Text cpu;
+	public Text gpu;
+	public Text ram;
+	public Text api;
 
 	// Use this for initialization
 	void Start () {
 
+		cpu.text = SystemInfo.processorType;
+		gpu.text = SystemInfo.graphicsDeviceName;
+		ram.text = SystemInfo.systemMemorySize.ToString()+"MB";
+		api.text = SystemInfo.graphicsDeviceType.ToString();
+
+
 		//Debug.Log (SystemInfo.graphicsDeviceType);
 		Debug.Log ("NAME "+SystemInfo.graphicsDeviceName);
-		gpu2.text = SystemInfo.graphicsDeviceName;
+
 		Debug.Log ("DID "+ SystemInfo.graphicsDeviceID);
 		Debug.Log (SystemInfo.graphicsDeviceType);
 		Debug.Log (SystemInfo.graphicsDeviceVendor);

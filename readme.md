@@ -38,14 +38,9 @@ Below are individual downloads for each API, along with download counters.
 [![Github Releases (by Asset)](https://img.shields.io/github/downloads-pre/Tylemagne/TFM/latest/tfm10-linux64-vulkan.tar.gz.svg?style=flat&label=🔽Download%2064-bit&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TFM/releases/download/v1.0/tfm10-linux64-vulkan.tar.gz)
 
 ### OpenGL
+[![Github Releases (by Asset)](https://img.shields.io/github/downloads-pre/Tylemagne/TFM/latest/tfm10-linux32-opengl.tar.gz.svg?style=flat&label=🔽Download%2032-bit&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TFM/releases/download/v1.0/tfm10-linux32-opengl.tar.gz)
 
-# Android
-
-Future.
-
-# iOS
-
-Future.
+[![Github Releases (by Asset)](https://img.shields.io/github/downloads-pre/Tylemagne/TFM/latest/tfm10-linux64-opengl.tar.gz.svg?style=flat&label=🔽Download%2064-bit&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TFM/releases/download/v1.0/tfm10-linux64-opengl.tar.gz)
 
 # About
 If you've ever needed a small, simple, and powerful game-like application to test your computer, look no further. TFM does many things, but is especially great for demonstrating differences between framerates, stress testing for long periods of time, and calibrating live streams. You install Steam, login, download a game, launch it, set the settings, and wait for the benchmark to start (if it even has one). It took forever! Not anymore.

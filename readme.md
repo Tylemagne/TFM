@@ -3,32 +3,23 @@ There are no builds yet. Ignore the buttons below.
 
 Vulkan is the recommendation, but your machine may not handle it yet as Vulkan is relatively very new. DirectX 11 or OpenGL is the next best option if DirectX 12 doesn't work, since it's the same age as Vulkan.
 
-[![Github Releases (by Asset)](https://img.shields.io/github/downloads-pre/Tylemagne/TFM/latest/tfm10-win64-dx12.zip.svg?style=flat&label=🔽Download%2064-bit&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TFM/releases/download/v1.0/tfm10-win64-dx12.zip)
+
 
 # Windows
 ### Vulkan (Recommended)
-[![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TFM/total.svg?style=flat&label=🔽%20TFM%20v1.1%20(32-bit)&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TFM/releases/download/v1.1/TFM-win-x86.zip)
+[![Github Releases (by Asset)](https://img.shields.io/github/downloads-pre/Tylemagne/TFM/latest/tfm10-win64-dx12.zip.svg?style=flat&label=🔽Download%2032-bit&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TFM/releases/download/v1.0/tfm10-win32-vulkan.zip)
 
-[![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TFM/total.svg?style=flat&label=🔽%20TFM%20v1.1%20(64-bit)&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TFM/releases/download/v1.1/TFM-win-x86_64.zip)
+[![Github Releases (by Asset)](https://img.shields.io/github/downloads-pre/Tylemagne/TFM/latest/tfm10-win64-dx12.zip.svg?style=flat&label=🔽Download%2064-bit&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TFM/releases/download/v1.0/tfm10-win64-vulkan.zip)
 ### OpenGL
 ### DirectX 12
 ### DirectX 11
 ### DirectX 9
-
 # Mac
 ### Metal (Recommended)
 ### OpenGL
-[![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TFM/total.svg?style=flat&label=🔽%20TFM%20v1.1%20(32-bit)&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TFM/releases/download/v1.1/TFM-win-x86.zip)
-
-[![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TFM/total.svg?style=flat&label=🔽%20TFM%20v1.1%20(64-bit)&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TFM/releases/download/v1.1/TFM-win-x86_64.zip)
-
 # Linux
 ### OpenGL
 ### Vulkan (Recommended)
-[![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TFM/total.svg?style=flat&label=🔽%20TFM%20v1.1%20(32-bit)&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TFM/releases/download/v1.1/TFM-win-x86.zip)
-
-[![Github All Releases](https://img.shields.io/github/downloads/Tylemagne/TFM/total.svg?style=flat&label=🔽%20TFM%20v1.1%20(64-bit)&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TFM/releases/download/v1.1/TFM-win-x86_64.zip)
-
 # Android
 
 Future.

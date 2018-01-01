@@ -60,8 +60,8 @@ public class benchmaster : MonoBehaviour {
 	public void calibrateSlidersSet(int set)
 	{
 		if(set == 1) calibrateSliders (0.5f, 145, 1.21f, 60, 1, 0.5f); //light
-		if(set == 2) calibrateSliders (1f, 145, 9.81f, 75, 4, 1f); //moderate
-		if(set == 3) calibrateSliders (5f, 145, 25f, 144, 50, 2f); //extreme
+		if(set == 2) calibrateSliders (1f, 145, 9.81f, 75, 3, 1f); //moderate
+		if(set == 3) calibrateSliders (5f, 145, 25f, 144, 35, 2f); //extreme
 		if(set == 4) calibrateSliders (0.1f, 145, 1.21f, 144, 8, 1f); //relaxed
 		if(set == 5) calibrateSliders (1f, 145, 9.81f, 144, 5, 0.1f); //slomo
 		if(set == 6) calibrateSliders (0f, 145, 9.81f, 7, 6, 0.5f); //dualfps

@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class misc : MonoBehaviour {
 
+	public Canvas dashboard;
+	public Canvas m_api;
+
 	// Use this for initialization
 	void Start () {
 		
@@ -12,6 +15,17 @@ public class misc : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		
+	}
+
+	public void CloseAPIPopup()
+	{
+		m_api.enabled = false;
+	}
+
+	public void OpenAPIPopup()
+	{
+		dashboard.enabled = false;
+		m_api.enabled = true;
 	}
 
 	public void OpenGitHub()

@@ -12,10 +12,10 @@ Below are individual downloads for each API, along with download counters.
 # Mac
 
 ### Metal (Recommended)
-[![Github Releases (by Asset)](https://img.shields.io/github/downloads-pre/Tylemagne/TFM/latest/tfm10-win64-dx12.zip.svg?style=flat&label=🔽Download%2064-bit&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TFM/releases/download/v1.0/tfm10-mac-metal.app.zip)
+[![Github Releases (by Asset)](https://img.shields.io/github/downloads-pre/Tylemagne/TFM/latest/tfm10-win64-dx12.zip.svg?style=flat&label=🔽Download&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TFM/releases/download/v1.0/tfm10-mac-metal.app.zip)
 
 ### OpenGL
-[![Github Releases (by Asset)](https://img.shields.io/github/downloads-pre/Tylemagne/TFM/latest/tfm10-win64-dx12.zip.svg?style=flat&label=🔽Download%2064-bit&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TFM/releases/download/v1.0/tfm10-mac-opengl.app.zip)
+[![Github Releases (by Asset)](https://img.shields.io/github/downloads-pre/Tylemagne/TFM/latest/tfm10-win64-dx12.zip.svg?style=flat&label=🔽Download&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TFM/releases/download/v1.0/tfm10-mac-opengl.app.zip)
 
 # Linux
 ### OpenGL

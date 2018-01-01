@@ -31,9 +31,9 @@ Below are individual downloads for each API, along with download counters.
 # Linux
 
 ### Vulkan (Recommended)
-[![Github Releases (by Asset)](https://img.shields.io/github/downloads-pre/Tylemagne/TFM/latest/tfm10-linux32-vulkan.zip.svg?style=flat&label=🔽Download%2032-bit&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TFM/releases/download/v1.0/tfm10-linux32-vulkan.zip)
+[![Github Releases (by Asset)](https://img.shields.io/github/downloads-pre/Tylemagne/TFM/latest/tfm10-linux32-vulkan.tar.gz.svg?style=flat&label=🔽Download%2032-bit&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TFM/releases/download/v1.0/tfm10-linux32-vulkan.tar.gz)
 
-[![Github Releases (by Asset)](https://img.shields.io/github/downloads-pre/Tylemagne/TFM/latest/tfm10-linux64-vulkan.zip.svg?style=flat&label=🔽Download%2064-bit&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TFM/releases/download/v1.0/tfm10-linux64-vulkan.zip)
+[![Github Releases (by Asset)](https://img.shields.io/github/downloads-pre/Tylemagne/TFM/latest/tfm10-linux64-vulkan.tar.gz.svg?style=flat&label=🔽Download%2064-bit&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TFM/releases/download/v1.0/tfm10-linux64-vulkan.tar.gz)
 
 ### OpenGL
 

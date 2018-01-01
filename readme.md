@@ -1,7 +1,7 @@
 # Download
 Below are individual downloads for each API, along with download counters.
 
-[![Github Releases (by Release)](https://img.shields.io/github/downloads/Tylemagne/TFM/total.svg?label=Downloads)]()
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/Tylemagne/TFM/total.svg?label=Downloads)](#)
 
 # Windows
 ### Vulkan (Recommended)

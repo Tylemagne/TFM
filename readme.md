@@ -1,9 +1,5 @@
-# Download Latest
-There are no builds yet. Ignore the buttons below.
-
-Vulkan is the recommendation, but your machine may not handle it yet as Vulkan is relatively very new. DirectX 11 or OpenGL is the next best option if DirectX 12 doesn't work, since it's the same age as Vulkan.
-
-
+# Download
+Below are individual downloads for each API, along with download counters.
 
 # Windows
 ### Vulkan (Recommended)

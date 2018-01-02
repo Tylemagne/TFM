@@ -54,17 +54,6 @@ Tyler's Frame Machine saves the day by giving you a portable, efficient, small, 
 [![Github Releases (by Asset)](https://img.shields.io/github/downloads-pre/Tylemagne/TFM/latest/tfm10-linux64-opengl.tar.gz.svg?style=flat&label=🔽Download%2064-bit&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TFM/releases/download/v1.0/tfm10-linux64-opengl.tar.gz)
 
 
-[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/Tylemagne/TFM.svg)]()
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/Tylemagne/TFM.svg)]()
-
-[![GitHub top language]()]()
-
-[![GitHub release](https://img.shields.io/github/release/Tylemagne/TFM.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAOCAYAAAD0f5bSAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAfgAAAH4BavEubQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAACRSURBVCiR7ZExCkJBDETn24jgCbyE9rZ2lr+3sPQUXsFD2HkNwZNYC9rk7cJYuMXy/aho60AgIfOKSaRKEdEC7lZEtLVvoC/0h36BGmAlaV7msaRJj+8s6Vb6o2wPgX3fU7uVUjrYHkmSbDcRsX0D7Ww/xwHWPFSbM7B5GTKltAAuBbjmnJcfXQeYAidg1re/A0Qcr7zN5lQ2AAAAAElFTkSuQmCC)]()
-
-[![Github commits (since latest release)](https://img.shields.io/github/commits-since/Tylemagne/TFM/latest.svg)]()
-
-
 
 
 [](http://htmlpreview.github.io/?https://github.com/Tylemagne/TFM/master/TFM-WebGL/index.html)

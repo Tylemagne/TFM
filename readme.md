@@ -3,10 +3,9 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/github/downloads/Tylemagne/TFM/total.svg?label=Downloads">
+    <img src="https://img.shields.io/github/release/Tylemagne/TFM.svg">
     <img src="https://img.shields.io/github/repo-size/Tylemagne/TFM.svg">
     <img src="https://img.shields.io/github/last-commit/Tylemagne/TFM.svg">
-    <img src="https://img.shields.io/github/release/Tylemagne/TFM.svg">
-    <img src="https://img.shields.io/github/languages/top/Tylemagne/TFM.svg">
 </p>
 
 Tyler's Frame Machine saves the day by giving you a portable, efficient, small, easy to use, cross platform executable that you can use to benchmark or stress test anything... and charges you nothing for it. If you're a frequent benchmarker, hardware tester, or system builder, TFM is your new best friend. It can demonstrate differences between framerates, stress test machines, and even help you calibrate for live streams. Features include physics objects, spawn rate control, gravity control, resolution selection, windowed mode control, physics framerate capping, global FPS capping, camera movement speed, and more. There's no huge installer, no annoying splash sceen, and no crazy list of configurations to get through. It just opens and starts to run - you can change everything in realtime!

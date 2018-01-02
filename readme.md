@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="padding: none; margin:none;">
     <img src="https://cdn.rawgit.com/Tylemagne/TFM/ec31a7fa/tfmvector.svg"
         height="130">
 </p>

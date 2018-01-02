@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/github/downloads/Tylemagne/TFM/total.svg?label=Downloads">
     <img src="https://img.shields.io/github/repo-size/Tylemagne/TFM.svg">
     <img src="https://img.shields.io/github/last-commit/Tylemagne/TFM.svg">
-    <img src="https://img.shields.io/github/commits-since/Tylemagne/TFM/latest.svg">
+    <img src="https://img.shields.io/github/release/Tylemagne/TFM.svg">
     <img src="https://img.shields.io/github/languages/top/Tylemagne/TFM.svg">
 </p>
 

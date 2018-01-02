@@ -1,3 +1,10 @@
+<p align="center">
+    <img src="https://cdn.rawgit.com/Tylemagne/TFM/ec31a7fa/tfmvector.svg"
+        height="130">
+</p>
+
+Tyler's Frame Machine saves the day by giving you a portable, efficient, small, easy to use, cross platform executable that you can use to benchmark or stress test anything... and charging nothing for it. If you're a frequent benchmarker, hardware tester, or system builder, TFM is your new best friend. It can demonstrate differences between framerates, stress test machines, and even help you calibrate for live streams. Features include gravity controls, resolution selection, windowed mode control, physics framerate capping, global FPS capping, camera movement speed, and more. There's no huge installer, no annoying splash sceen, and no crazy list of configurations to get through. It just opens and starts to run - you can change everything in realtime!
+
 # Download
 Below are individual downloads for each API, along with download counters.
 
@@ -42,8 +49,6 @@ Below are individual downloads for each API, along with download counters.
 
 [![Github Releases (by Asset)](https://img.shields.io/github/downloads-pre/Tylemagne/TFM/latest/tfm10-linux64-opengl.tar.gz.svg?style=flat&label=🔽Download%2064-bit&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TFM/releases/download/v1.0/tfm10-linux64-opengl.tar.gz)
 
-# About
-If you've ever needed a small, simple, and powerful game-like application to test your computer, look no further. TFM does many things, but is especially great for demonstrating differences between framerates, stress testing for long periods of time, and calibrating live streams. You install Steam, login, download a game, launch it, set the settings, and wait for the benchmark to start (if it even has one). It took forever! Not anymore.
 
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/Tylemagne/TFM.svg)]()
 

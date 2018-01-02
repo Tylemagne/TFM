@@ -3,7 +3,7 @@
         height="170">
 </p>
 
-Tyler's Frame Machine saves the day by giving you a portable, efficient, small, easy to use, cross platform executable that you can use to benchmark or stress test anything... and charging nothing for it. If you're a frequent benchmarker, hardware tester, or system builder, TFM is your new best friend. It can demonstrate differences between framerates, stress test machines, and even help you calibrate for live streams. Features include gravity controls, resolution selection, windowed mode control, physics framerate capping, global FPS capping, camera movement speed, and more. There's no huge installer, no annoying splash sceen, and no crazy list of configurations to get through. It just opens and starts to run - you can change everything in realtime!
+Tyler's Frame Machine saves the day by giving you a portable, efficient, small, easy to use, cross platform executable that you can use to benchmark or stress test anything... and charges you nothing for it. If you're a frequent benchmarker, hardware tester, or system builder, TFM is your new best friend. It can demonstrate differences between framerates, stress test machines, and even help you calibrate for live streams. Features include physics objects, spawn rate control, gravity control, resolution selection, windowed mode control, physics framerate capping, global FPS capping, camera movement speed, and more. There's no huge installer, no annoying splash sceen, and no crazy list of configurations to get through. It just opens and starts to run - you can change everything in realtime!
 
 # Download
 Below are individual downloads for each API, along with download counters.

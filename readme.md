@@ -11,6 +11,10 @@
 
 Tyler's Frame Machine saves the day by giving you a portable, efficient, small, easy to use, cross platform executable that you can use to benchmark or stress test anything... and charges you nothing for it. If you're a frequent benchmarker, hardware tester, or system builder, TFM is your new best friend. It can demonstrate differences between framerates, stress test machines, and even help you calibrate for live streams. Features include physics objects, spawn rate control, gravity control, resolution selection, windowed mode control, physics framerate capping, global FPS capping, camera movement speed, and more. There's no huge installer, no annoying splash sceen, and no crazy list of configurations to get through. It just opens and starts to run - you can change everything in realtime!
 
+<video width="320" height="180" controls preload> 
+    <source src="http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4"></source> 
+</video>
+
 # Windows
 ### Vulkan (Recommended)
 [![Github Releases (by Asset)](https://img.shields.io/github/downloads-pre/Tylemagne/TFM/latest/tfm10-win32-vulkan.zip.svg?style=flat&label=🔽Download%2032-bit&colorA=00cc0a&colorB=000000)](https://github.com/Tylemagne/TFM/releases/download/v1.0/tfm10-win32-vulkan.zip)

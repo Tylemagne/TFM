@@ -61,6 +61,7 @@ Tyler's Frame Machine saves the day by giving you a portable, efficient, small, 
 
 # To-do for Future Release
 Current task list:
+1. Logos (SVG) on the download buttons. OpenGL, Vulkan, etc.
 1. Eventual rewrite from the ground up. The first incarnation has very messy code, as features were added over the course of several months.
 1. Intro text fade in from black
 2. Resolution dropdown in the dashboard

@@ -59,19 +59,20 @@ Tyler's Frame Machine saves the day by giving you a portable, efficient, small, 
 [](http://htmlpreview.github.io/?https://github.com/Tylemagne/TFM/master/TFM-WebGL/index.html)
 
 
-# To-do for Future Release
+# To-do
 Current task list:
-1. Logos (SVG) on the download buttons. OpenGL, Vulkan, etc.
-1. Eventual rewrite from the ground up. The first incarnation has very messy code, as features were added over the course of several months.
+1. Shape/collider variance
+1. Better spawning & spawn controls
+1. Full re-write
 1. Intro text fade in from black
-2. Resolution dropdown in the dashboard
-3. Fullscreen toggler
-18. Clickable helpers on CPU, GPU, RAM, and more. Clickable helpers on CERTAIN CPUs/GPUs/APIs. "This is Vulkan. It is..."
+1. Remove Unity intro screen
+1. Resolution dropdown in the dashboard
+1. Fullscreen toggler
+1. Particle stress
 
-# Considerations
-3. Web builds hosted by GitHub?
+
 
 
 # Credits
 
-1. Gabe. You requesting the download on several occasions made me realize that people other than myself may need this tool.
+* Gabe. You requesting the download on several occasions made me think that people other than myself may like this tool.

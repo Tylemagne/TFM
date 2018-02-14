@@ -61,6 +61,7 @@ Tyler's Frame Machine saves the day by giving you a portable, efficient, small, 
 
 # To-do
 Current task list:
+1. Config file/score output (JSON) for all 3 platforms
 1. Shape/collider variance
 1. Better spawning & spawn controls
 1. Full re-write

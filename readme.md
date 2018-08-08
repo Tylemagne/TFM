@@ -59,8 +59,9 @@ Tyler's Frame Machine saves the day by giving you a portable, efficient, small, 
 [](http://htmlpreview.github.io/?https://github.com/Tylemagne/TFM/master/TFM-WebGL/index.html)
 
 
-# To-do
+# To-do v 2.0
 Current task list:
+1. Make "Esc" the universal menu/exit key. Not Q!
 1. Config file/score output (JSON) for all 3 platforms
 1. Shape/collider variance
 1. Better spawning & spawn controls

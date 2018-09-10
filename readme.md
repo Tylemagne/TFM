@@ -2,7 +2,7 @@
     <img src="https://cdn.rawgit.com/Tylemagne/TFM/ec31a7fa/tfmvector.svg" height="170">
 </p>
 <p align="center">
-    <img src="https://img.shields.io/github/downloads/Tylemagne/TFM/total.svg?label=Downloads">
+    <a href="https://github.com/Tylemagne/TFM/releases/download/v1.0/tfm10-win64-vulkan.zip"><img src="https://img.shields.io/github/downloads/Tylemagne/TFM/total.svg?label=Downloads"></a>
     <img src="https://img.shields.io/github/release/Tylemagne/TFM.svg">
     <img src="https://img.shields.io/github/repo-size/Tylemagne/TFM.svg">
     <img src="https://img.shields.io/github/last-commit/Tylemagne/TFM.svg">
